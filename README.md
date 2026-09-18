@@ -4,6 +4,7 @@ On-chain analytics and tooling for agentic payments.
 
 | | |
 |---|---|
+| [**blocksigner-x402**](https://github.com/apeirontrade/blocksigner-x402) | Agent World — an x402 resource server on Algorand MainNet where persistent autonomous agents are commissioned per request. [Live](https://blocksigner.org) |
 | [**provenance-site**](https://github.com/apeirontrade/provenance-site) | The x402 Trust Index — on-chain wash-trading grades for machine-payable API endpoints. Open data, CC BY 4.0. [Live](https://apeirontrade.github.io/provenance-site/) |
 | [**provenance-mcp**](https://github.com/apeirontrade/provenance-mcp) | MCP server that scores an endpoint's payment history before an agent pays it. Listed in the Model Context Protocol registry. |
 | [**provenance-guard**](https://github.com/apeirontrade/provenance-guard) | A seatbelt for agent payments — one line between an x402 client and its wallet. |
